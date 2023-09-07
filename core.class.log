@@ -1,0 +1,260 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: '2760AE9435431B1C78',
+    participant: undefined
+  },
+  messageTimestamp: 1694079385,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '34636634119'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_de8e6460-040e-45dd-94d4-4f284876f12d',
+  keyword: 'key_7f90c8e5-970e-4071-a0f2-919acec6e0b2',
+  answer: 'Hola👋! Bienvenido a *Insiders Brand New*, te damos las gracias por contactarnos 😉.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca4f70443b72bdaf5399b89081d09bff'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: 'BD28814C8C4E234492',
+    participant: undefined
+  },
+  messageTimestamp: 1694079391,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'botones', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'botones',
+  from: '34636634119'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_de8e6460-040e-45dd-94d4-4f284876f12d',
+  keyword: 'key_7f90c8e5-970e-4071-a0f2-919acec6e0b2',
+  answer: 'Hola👋! Bienvenido a *Insiders Brand New*, te damos las gracias por contactarnos 😉.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca4f70443b72bdaf5399b89081d09bff'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: 'A263DDD0536B2BD755',
+    participant: undefined
+  },
+  messageTimestamp: 1694079395,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '34636634119'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_de8e6460-040e-45dd-94d4-4f284876f12d',
+  keyword: 'key_7f90c8e5-970e-4071-a0f2-919acec6e0b2',
+  answer: 'Hola👋! Bienvenido a *Insiders Brand New*, te damos las gracias por contactarnos 😉.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca4f70443b72bdaf5399b89081d09bff'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB1DB18125228D88E',
+    participant: undefined
+  },
+  messageTimestamp: 1694079397,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'gtr', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gtr',
+  from: '34636634119'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: 'B90D604790A8130C2D',
+    participant: undefined
+  },
+  messageTimestamp: 1694079402,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'botones', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'botones',
+  from: '34636634119'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_de8e6460-040e-45dd-94d4-4f284876f12d',
+  keyword: 'key_7f90c8e5-970e-4071-a0f2-919acec6e0b2',
+  answer: 'Hola👋! Bienvenido a *Insiders Brand New*, te damos las gracias por contactarnos 😉.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca4f70443b72bdaf5399b89081d09bff'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: '5D8171045FFE9FF335',
+    participant: undefined
+  },
+  messageTimestamp: 1694079421,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'ds', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ds',
+  from: '34636634119'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: 'BCA24E20360A5FACB1',
+    participant: undefined
+  },
+  messageTimestamp: 1694079422,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'f', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'f',
+  from: '34636634119'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: '896E4965B6E1A24E17',
+    participant: undefined
+  },
+  messageTimestamp: 1694079423,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 's', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 's',
+  from: '34636634119'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34636634119@s.whatsapp.net',
+    fromMe: false,
+    id: '70C422EA16A254F0D9',
+    participant: undefined
+  },
+  messageTimestamp: 1694079426,
+  pushName: 'Silvia B',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'botones', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'botones',
+  from: '34636634119'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_de8e6460-040e-45dd-94d4-4f284876f12d',
+  keyword: 'key_7f90c8e5-970e-4071-a0f2-919acec6e0b2',
+  answer: 'Hola👋! Bienvenido a *Insiders Brand New*, te damos las gracias por contactarnos 😉.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca4f70443b72bdaf5399b89081d09bff'
+}
